@@ -19,7 +19,7 @@
     <img src="img/covid.png" width="100%" height="auto">
     <div class="topnav">
       <div class="topnav-right">
-        <a href="index.php">HOME</a>
+        <a href="index.html">HOME</a>
         <a href="awareness.php">AWARENESS</a>
         <a href="stat.php">STATISTICS</a>
         <a class="active" href="contact.php">CONTACTS</a>
